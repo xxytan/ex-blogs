@@ -14,6 +14,7 @@ CrazyWong | https://blog.crazywong.com/ | 热衷学习，热衷生活 | https://
 寒士杰克 | https://www.hansjack.com/ | 喜欢捣鼓，不断进步！ | https://q1.qlogo.cn/g?b=qq&nk=2959602696&s=640
 江鸟博客 | https://blog.azucat.eu/ | 天有不公~地有苍生~万般万般年月过~落日朱门满地红~ | https://blog.azucat.eu/favicon/icon.png
 1zyq1 BLOG | https://www.1zyq1.com/ | 爱你所爱 | https://q1.qlogo.cn/g?b=qq&nk=2289308183&s=640
+吃猫的鱼の总部 | https://geekrain.site/ | 长官在这里发号施令 | https://free.picui.cn/free/2026/01/25/69760dea9ac4f.png
 {% endlg %}
 
 # 网站
