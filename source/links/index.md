@@ -25,10 +25,10 @@ E5仪表盘 | https://developer.microsoft.com/en-us/microsoft-365/profile | Micr
 Spaceship | https://www.spaceship.com/zh | 本站域名注册商，六位纯.xyz最便宜 | https://spaceship-cdn.com/static/spaceship/favicon/spaceship-icon.svg
 {% endlg%}
 ---
-{% note default %}
-贵站如需加入请以以下格式
+{% note default no-icon How to?🤔 %}
+贵站如需交换请以以下格式
 - 在下方评论区留言❤️
-- 或[给我邮件📧](mailto:kentural@email.cn)
+- 或直接[给我邮件📧](mailto:kentural@email.cn)
 ``` yaml
 名字 | 链接 | 描述 | 头像
 ```
