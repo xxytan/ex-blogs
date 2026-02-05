@@ -15,6 +15,7 @@ CrazyWong | https://blog.crazywong.com/ | 热衷学习，热衷生活 | https://
 江鸟博客 | https://blog.azucat.eu/ | 天有不公~地有苍生~万般万般年月过~落日朱门满地红~ | https://blog.azucat.eu/favicon/icon.png
 1zyq1 BLOG | https://www.1zyq1.com/ | 爱你所爱 | https://q1.qlogo.cn/g?b=qq&nk=2289308183&s=640
 吃猫的鱼の总部 | https://geekrain.site/ | 长官在这里发号施令 | https://free.picui.cn/free/2026/01/25/69760dea9ac4f.png
+Xanser | https://blog.xanz.xyz/ | … | https://blog.xanz.xyz/icon/favicon.ico
 {% endlg %}
 
 # 网站
@@ -25,7 +26,9 @@ Spaceship | https://www.spaceship.com/zh | 本站域名注册商，六位纯.xyz
 {% endlg%}
 ---
 {% note default %}
-贵站如需加入请以以下格式在下方评论区留言❤️
+贵站如需加入请以以下格式
+- 在下方评论区留言❤️
+- 或[给我邮件📧](mailto:kentural@email.cn)
 ``` yaml
 名字 | 链接 | 描述 | 头像
 ```
