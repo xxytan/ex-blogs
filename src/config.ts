@@ -295,20 +295,25 @@ export const profileConfig: ProfileConfig = {
 	},
 	links: [
 		{
-			name: "Bilibili",
-			icon: "fa7-brands:bilibili",
-			url: "https://space.bilibili.com/1580336394",
+		    name: "E-mail",
+		    icon: "fa7-solid:envelope",
+		    url: "mailto:msbyshens@outlook.com""
 		},
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/xxytan",
+			url: "https://github.com/xxytan"
 		},
 		{
-			name: "Discord",
-			icon: "fa7-brands:discord",
-			url: "https://discord.gg/",
+			name: "Telegram",
+			icon: "fa7-brands:telegram",
+			url: "https://t.me/kentural"
 		},
+		{
+			name: "Bilibili",
+			icon: "fa7-brands:bilibili",
+			url: "https://space.bilibili.com/1580336394"
+		}
 	],
 };
 
