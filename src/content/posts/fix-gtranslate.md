@@ -12,7 +12,7 @@ category: 教程
 
 ## 准备
 打开此GitHub仓库
-::github{repo="Ponderly/GoogleTranslateIpCheck"}
+::github{repo="Ponderfly/GoogleTranslateIpCheck"}
 根据系统自行选择下载
 
 解压下载得的压缩包，会获得一个命名为`系统-架构`的文件夹，其中仅包含四个文件，前缀为`GoogleTranslateIpCheck`的文件是我们主要关注的
