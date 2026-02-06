@@ -297,7 +297,7 @@ export const profileConfig: ProfileConfig = {
 		{
 		    name: "E-mail",
 		    icon: "fa7-solid:envelope",
-		    url: "mailto:msbyshens@outlook.com""
+		    url: "mailto:msbyshens@outlook.com"
 		},
 		{
 			name: "GitHub",
