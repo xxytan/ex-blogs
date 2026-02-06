@@ -241,7 +241,7 @@ export const zh_CN: Translation = {
 	[Key.rssCopyToReader]: "复制链接到你的 RSS 阅读器",
 	[Key.rssCopyLink]: "复制链接",
 	[Key.rssLatestPosts]: "最新文章",
-	[Key.rssWhatIsRSS]: "什么是 RSS？",
+	[Key.rssWhatIsRSS]: "RSS 是啥？",
 	[Key.rssWhatIsRSSDescription]:
 		"RSS（Really Simple Syndication）是一种用于发布经常更新内容的标准格式。通过 RSS，你可以：",
 	[Key.rssBenefit1]: "及时获取网站最新内容，无需手动访问",
@@ -261,7 +261,7 @@ export const zh_CN: Translation = {
 	[Key.atomCopyToReader]: "复制链接到你的 Atom 阅读器",
 	[Key.atomCopyLink]: "复制链接",
 	[Key.atomLatestPosts]: "最新文章",
-	[Key.atomWhatIsAtom]: "什么是 Atom？",
+	[Key.atomWhatIsAtom]: "Atom 是啥？",
 	[Key.atomWhatIsAtomDescription]:
 		"Atom联合格式（Atom Syndication Format）是一个基于XML的标准，用于描述订阅源及其信息项。通过 Atom，你可以：",
 	[Key.atomBenefit1]: "及时获取网站最新内容，无需手动访问",
