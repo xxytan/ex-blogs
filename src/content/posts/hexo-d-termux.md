@@ -20,7 +20,7 @@ description: 轻松使用Termux部署一个属于自己的博客
 > 目的提高国内网络环境下载速度
 
 在命令框输入
-``` bash
+```bash
 termux-change-repo
 ```
 并回车，此时会出现![1.这样的界面](https://roc.us.ci/file/blog/1/1.png)
@@ -30,7 +30,7 @@ termux-change-repo
 
 ## 安装Node.js[^2]
 输入
-``` bash
+```bash
 pkg install nodejs-lts -y
 ```
 等待进程跑完，然后继续
@@ -39,11 +39,11 @@ pkg install nodejs-lts -y
 
 ### 部署
 输入
-``` bash
+```bash
 npm i hexo-cli -g
 ```
 安装Hexo框架，然后再输入
-``` bash
+```bash
 hexo init <folder>
 ```
 > `<folder>`[^3]即文件夹名，本教程以`blog`为例
@@ -61,11 +61,15 @@ hexo init <folder>
 |SU|可直接访问`blog`文件夹|
 |普通用户|需借助第三方文件管理器|
 
-- 普通用户可以使用[MT管理器](https://mt2.cn)的`添加本地存储功能`，操作过后就能够方便地使用图形化界面访问`blog`文件夹![操作流程](https://roc.us.ci/file/blog/1/6.gif)
+- 普通用户可以先在Termux运行
+  ```bash
+  termux-setup-storage
+  ```
+  并授予访问存储权限，然后使用[MT管理器](https://mt2.cn)的`添加本地存储功能`，操作过后就能够方便地使用图形化界面访问`blog`文件夹![操作流程](https://roc.us.ci/file/blog/1/6.gif)
 
 ### 测试
 输入
-``` bash
+```bash
 hexo s
 ```
 运行后[本地4000端口](http://localhost:4000)会映射出内容，在浏览器中打开它，不出所料，你就能看到![5.这样的页面](https://roc.us.ci/file/blog/1/5.png)
@@ -85,6 +89,7 @@ hexo s
 
 ## 结尾
 - 由于各个主题之间的差异，在此不对安装主题做任何讲解，具体请查看官方文档或查阅资料
+- 安装过程中涉及到`pkg`命令都可以换成`apt`命令
 
 [^1]: 清华大学源。也可自行选择其他国内镜像源
 [^2]: 安装的是长期版。也可通过以下命令安装稳定版：
