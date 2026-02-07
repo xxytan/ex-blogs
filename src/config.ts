@@ -101,7 +101,7 @@ export const siteConfig: SiteConfig = {
 	// 壁纸模式配置
 	wallpaperMode: {
 		// 默认壁纸模式：banner=顶部横幅，fullscreen=全屏壁纸，none=无壁纸
-		defaultMode: "fullscreen",
+		defaultMode: "banner",
 		// 整体布局方案切换按钮显示设置（默认："desktop"）
 		// "off" = 不显示
 		// "mobile" = 仅在移动端显示
@@ -113,8 +113,12 @@ export const siteConfig: SiteConfig = {
 	banner: {
 		// 支持单张图片或图片数组，当数组长度 > 1 时自动启用轮播
 		src: {
-			desktop: [], // 桌面横幅图片
-			mobile: [], // 移动横幅图片
+			desktop: [
+			    "/assets/bgd/1.jpg"
+			], // 桌面横幅图片
+			mobile: [
+			    "/assets/bgd/1.jpg"
+			], // 移动横幅图片
 		}, // 使用本地横幅图片
 
 		position: "center", // 等同于 object-position，仅支持 'top', 'center', 'bottom'。默认为 'center'
@@ -140,12 +144,15 @@ export const siteConfig: SiteConfig = {
 		// 请自行搭建API
 
 		homeText: {
-			enable: false, // 在主页显示自定义文本
-			title: "", // 主页横幅主标题
+			enable: true, // 在主页显示自定义文本
+			title: "Kent's Blog", // 主页横幅主标题
 
-			subtitle: [],
+			subtitle: [
+			    "欢迎来访我的博客👋",
+			    "Welcome to my blog❤️"
+			],
 			typewriter: {
-				enable: false, // 启用副标题打字机效果
+				enable: true, // 启用副标题打字机效果
 
 				speed: 100, // 打字速度（毫秒）
 				deleteSpeed: 50, // 删除速度（毫秒）
@@ -247,11 +254,11 @@ export const navBarConfig: NavBarConfig = {
 					url: "/diary/",
 					icon: "material-symbols:book",
 				},
-				{
-					name: "Gallery",
-					url: "/albums/",
-					icon: "material-symbols:photo-library",
-				},
+//				{
+//					name: "Gallery",
+//					url: "/albums/",
+//					icon: "material-symbols:photo-library",
+//				},
 				{
 					name: "Devices",
 					url: "devices/",

@@ -1,14 +1,6 @@
 ## 介绍
 诞生于**25年8月**的一个小站，~~记录点滴~~
 
-## 各Pages
-> [!TIP]
-> 以CloudFlare为主要，且已做优选
-
-|❤️CloudFlare|Github&EdgeOne|
-|-|-|
-|[View](https://b.oxue.de)|[View](https://www.roc.us.ci)|
-
 ## 变迁史
 |主题|状态|
 |-|-|
