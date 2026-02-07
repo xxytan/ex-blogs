@@ -14,9 +14,6 @@ description: 轻松使用Termux部署一个属于自己的博客
 - 可以使用[原版Termux](https://github.com/termux/termux-app/releases/latest)
 - 或第三方的类似于[ZeroTermux](https://github.com/hanxinhao000/ZeroTermux/releases/latest)（以此做演示）
 
-> [!WARNING]
-如果您是非ROOT用户，**<u>强烈建议您使用ZeroTermux进行下列步骤</u>**，否则后期编辑配置文件会很困难（当然你如果要是会命令行编辑，用官方版也行）
-
 打开后跟着向导，授予基本权限，然后我们就可以开始
 
 ### 换源
@@ -47,15 +44,11 @@ npm i hexo-cli -g
 ```
 安装Hexo框架，然后再输入
 ``` bash
-cd ..
-```
-回到上一级目录，接着再输入
-``` bash
 hexo init <folder>
 ```
 > `<folder>`[^3]即文件夹名，本教程以`blog`为例
 
-运行结束后`/data/data/com.termux/files/`下就会有一个名为`blog`的文件夹，这个文件夹就储存着Hexo的必备文件了
+运行结束后`/data/data/com.termux/files/home/`下就会有一个名为`blog`的文件夹，这个文件夹就储存着Hexo的必备文件了
 
 :::important[Q&A]
 ?: 在`/sdcard`部署不是更方便吗  
@@ -68,10 +61,7 @@ hexo init <folder>
 |SU|可直接访问`blog`文件夹|
 |普通用户|需借助第三方文件管理器|
 
-- 普通用户可以在ZeroTermux的设置中![3.通过向右划或按音量➕打开该菜单](https://roc.us.ci/file/blog/1/3.png)
-  依次点击`安装/还原Termux官方软件`--`(Zero)Utermux File Plug`--`确定`，稍等片刻便会开始安装质感文件
-  安装完成后打开，点击左上角三横线，你就会看到`访问Utermux文件`![4.e.g](https://roc.us.ci/file/blog/1/4.jpg)
-  点它你就能看到`blog`文件夹，这样就能查看和编辑配置文件了
+- 普通用户可以使用[MT管理器](https://mt2.cn)的`添加本地存储功能`，操作过后就能够方便地使用图形化界面访问`blog`文件夹![操作流程](https://roc.us.ci/file/blog/1/6.gif)
 
 ### 测试
 输入
