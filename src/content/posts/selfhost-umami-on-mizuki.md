@@ -48,7 +48,7 @@ category: 教程
 > 位于`./src/`
 
 将最后 **umamiConfig** 下
-- `apiKey`填前面复制的`token`；
+- `apiKey`填前面复制的`token`；  
   或者使用环境变量
 - `baseUrl`填
   ```
