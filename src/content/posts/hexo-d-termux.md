@@ -1,6 +1,5 @@
 ---
 title: 用Termux部署Hexo
-date: 2025-08-15
 published: 2025-08-15
 tags: [Termux, Hexo]
 category: Hexo

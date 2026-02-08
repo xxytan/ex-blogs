@@ -5,7 +5,7 @@
 	/**
 	 * 获取网站统计数据
 	 * @param {string} baseUrl - Umami API基础URL
-	 * @param {string} apiKey - Bearer Token
+	 * @param {string} apiKey - Token
 	 * @param {string} websiteId - 网站ID
 	 * @returns {Promise<object>} 网站统计数据
 	 */
@@ -24,7 +24,7 @@
 		}
 
 		const currentTimestamp = Date.now();
-		// 修改API路径，注意自建Umami没有/v1，而是直接/api
+		// 修改API路径
 		const statsUrl = `${baseUrl}/websites/${websiteId}/stats?startAt=0&endAt=${currentTimestamp}`;
 
 		const res = await fetch(statsUrl, {
@@ -52,7 +52,7 @@
 	/**
 	 * 获取特定页面的统计数据
 	 * @param {string} baseUrl - Umami API基础URL
-	 * @param {string} apiKey - Bearer Token
+	 * @param {string} apiKey - Token
 	 * @param {string} websiteId - 网站ID
 	 * @param {string} urlPath - 页面路径
 	 * @param {number} startAt - 开始时间戳
@@ -67,7 +67,7 @@
 		startAt = 0,
 		endAt = Date.now(),
 	) {
-		// 修改API路径，注意自建Umami没有/v1，而是直接/api
+		// 修改API路径
 		const statsUrl = `${baseUrl}/websites/${websiteId}/stats?startAt=${startAt}&endAt=${endAt}&url=${encodeURIComponent(urlPath)}`;
 
 		const res = await fetch(statsUrl, {
@@ -102,7 +102,7 @@
 	/**
 	 * 获取特定页面的 Umami 统计数据
 	 * @param {string} baseUrl - Umami API基础URL
-	 * @param {string} apiKey - Bearer Token
+	 * @param {string} apiKey - Token
 	 * @param {string} websiteId - 网站ID
 	 * @param {string} urlPath - 页面路径
 	 * @param {number} startAt - 开始时间戳（可选）
