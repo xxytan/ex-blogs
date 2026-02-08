@@ -75,6 +75,14 @@ export const friendsData: FriendItem[] = [
 		desc: "身在无间，心在桃源",
 		siteurl: "https://blog.ksable.top",
 		tags: ["朋友"],
+	},
+	{
+		id: 9,
+		title: "兔兔博客",
+		imgurl: "https://blog.xn--eet944d.top/assets/avatar.webp",
+		desc: "万事都要全力以赴，包括开心",
+		siteurl: "https://blog.xn--eet944d.top",
+		tags: ["朋友"],
 	}
 ];
 

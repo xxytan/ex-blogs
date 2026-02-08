@@ -23,9 +23,35 @@ const diaryData: DiaryItem[] = [
 	    id: 2,
 	    content:
 	        "新年第一杯奶茶🧋",
-	    date: "2026-01-01T13:12:00Z",
+	    date: "2026-01-01T15:00:00Z",
 	    images: ["https://roc.us.ci/file/blog/leaves/1.png"]
-	}
+	},
+	{
+	    id: 3,
+	    content:
+	        "解锁新域名：oxue.de🎉",
+	    date: "2026-01-02T01:32:00Z"
+	},
+	{
+	    id: 4,
+	    content:
+	        "我就这样炫耀我的成绩🥴",
+	    date: "2026-01-03T12:46:00",
+	    images: ["https://img.oxue.de/file/blog/leaves/2.jpg"]
+    },
+    {
+        id: 5,
+        content:
+            "巅峰😎",
+        date: "2026-01-09T17:33:00Z",
+        images: ["https://img.oxue.de/file/za/record.png"]
+    },
+    {
+        id: 6,
+        content:
+            "怎么这么快假期就过去 5 天了😭",
+        date: "2026-01-26T00:03:42Z"
+    }
 ];
 
 // 获取日记统计数据

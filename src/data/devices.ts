@@ -22,8 +22,8 @@ export const devicesData: DeviceCategory = {
 			image: "/images/device/flame.png",
 			specs: "Black / 6G + 128GB",
 			description:
-				"拥有塞下雷达和3D人脸识别模组的大航母，强悍的骁龙855，电池小的可怜",
-			link: "https://www.oneplus.com/cn/13t",
+				"拥有塞下雷达和3D人脸识别模组的大航母，强悍的骁龙855，电池小的可怜，小小的一个很好单手操作",
+			link: "https://www.google-mobile.cn/?product=pixel-4",
 		},
 	]
 //	Router: [
