@@ -6,8 +6,8 @@ tags: [Astro, Mizuki, Umami]
 category: 教程
 ---
 # 前言
-前段时间把博客从 Hexo 换成了 Astro，然后发现我用的 Mizuki 主题的统计总是用不了
-进了交流群才发现原来只是默认适配了**Umami Cloud**，并没有适配**自托管Umami**
+前段时间把博客从 Hexo 换成了 Astro，然后发现我用的 Mizuki 主题的统计总是用不了  
+进了交流群才发现原来只是默认适配了**Umami Cloud**，并没有适配**自托管Umami**  
 后来在群友的帮助下还是找到了解决方法😋
 - **自托管Umami**没有`API Key`这一说，用的是`Bearer Token`，而 Mizuki 默认只支持使用`API Key`，想要使用自托管我们得更改文件
 

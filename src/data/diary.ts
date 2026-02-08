@@ -37,14 +37,14 @@ const diaryData: DiaryItem[] = [
 	    content:
 	        "我就这样炫耀我的成绩🥴",
 	    date: "2026-01-03T12:46:00",
-	    images: ["https://img.oxue.de/file/blog/leaves/2.jpg"]
+	    images: ["https://roc.us.ci/file/blog/leaves/2.jpg"]
     },
     {
         id: 5,
         content:
             "巅峰😎",
         date: "2026-01-09T17:33:00Z",
-        images: ["https://img.oxue.de/file/za/record.png"]
+        images: ["https://roc.us.ci/file/za/record.png"]
     },
     {
         id: 6,
