@@ -582,8 +582,8 @@ export const widgetConfigs = {
 
 export const umamiConfig = {
 	enabled: true, // 是否显示Umami统计
-	apiKey: import.meta.env.UMAMI_API_KEY || "MCQEZYTL9g93QhS+OS+PNEfxSbAIN9tROyxWXnWpgp1QLcgTCXOguHfUUa3xfejm6AxplIjopSIzgv4gSymXWuehuOj4SGMQFLt/u/wbKcGkrOcSviQqhJi5hF29xfkG41B18tqQ28PS8fTS4O1kUAjZzQp7+f+FZDsb0LAeihj1/CPzHhSsSqhh0h2OgH6dkjHdS6nha6dw0n5bQ403l/Vu06h07t+k58OLOQrypr2ZYdfPl79gFVIDvTxgRi7VMESZPWfrLE16A2+wc2Dk4Q+HlnqfE853vtIQ6CTIG+owfjg0g2TlLJavCYXGEDjDi2WlCO8fIc/VM0atNBXK6xflU0yc7VW1+73cZOwEadKuJo6wD9myU9Sy9Bg4tZgIIRyy", // API密钥优先从环境变量读取，否则使用配置文件中的值
-	baseUrl: "https://umami.oxue.de", // Umami Cloud API地址
+	apiKey: import.meta.env.UMAMI_API_KEY || "Y0Ff6sFXmxESKafmF68ClcrSB3NOlgmVpxFjhk1AMKk4IRhw2Vjog4QNXbg+7EP9Zh8nyOSN3dLjpIVljEyKFFAzGrz4vNdSqIM9I+eRwSyDmBmqfqG8yYLZccq3rUxHSzY9XN9zIaMRMeNeBEB5evD60sYd3UNH86X/O0qpA0p7rz537NQ0fQWZ0lRqJH9sZSMnPhcdXRSTl2JTxjRuSX9BM+NC+FSSFpJ/Q6uZ5WpS1si2gqgPNaeEvu8RVQE/sMphBDH03+cz+fSl8wR6L33E3jFXRDAqsrttetTyuasI9YlqaIAy+KULJGXMHnRUcjO1Jo5Zi1UJv/IIl2CuL8XdDdnVzU5vQVfEc7wcLhYs7q7YxVo6kbXHcegicr9mauMZ", // API密钥优先从环境变量读取，否则使用配置文件中的值
+	baseUrl: "https://umami.oxue.de/api", // Umami Cloud API地址
 	scripts: `
 <script defer src="https://umami.oxue.de/script.js" data-website-id="ff94c501-ac73-48a0-ab83-a10000eb532c"></script>
   `.trim(), // 上面填你要插入的Script,不用再去Layout中插入
