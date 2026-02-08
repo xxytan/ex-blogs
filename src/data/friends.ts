@@ -67,6 +67,14 @@ export const friendsData: FriendItem[] = [
 		desc: "沉浮与世，驻足一刻",
 		siteurl: "https://blog.xanz.xyz",
 		tags: ["朋友"],
+	},
+	{
+		id: 8,
+		title: "Ksable’s 小屋",
+		imgurl: "https://weavatar.com/avatar/abd826c253cc22fb954ec7567526f9a1211deb9905b8477c5b2875e20a2adb0b?s=500",
+		desc: "身在无间，心在桃源",
+		siteurl: "https://blog.ksable.top",
+		tags: ["朋友"],
 	}
 ];
 
