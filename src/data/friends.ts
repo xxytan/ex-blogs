@@ -63,7 +63,7 @@ export const friendsData: FriendItem[] = [
 	{
 		id: 7,
 		title: "一刻",
-		imgurl: "https://blog.xanz.xyz/icon/favicon.ico",
+		imgurl: "https://blog.xanz.xyz/icon/android-chrome-192x192.png",
 		desc: "沉浮与世，驻足一刻",
 		siteurl: "https://blog.xanz.xyz",
 		tags: ["朋友"],
