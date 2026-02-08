@@ -83,6 +83,14 @@ export const friendsData: FriendItem[] = [
 		desc: "万事都要全力以赴，包括开心",
 		siteurl: "https://blog.xn--eet944d.top",
 		tags: ["朋友"],
+	},
+	{
+		id: 10,
+		title: "邢平cn",
+		imgurl: "https://cdn.jsdelivr.net/gh/xingpingcn/picx-images-hosting@master/20230419/臭卷包圆形.2rx79tqffvu0.png",
+		desc: "…",
+		siteurl: "https://xingpingcn.top",
+		tags: ["朋友"],
 	}
 ];
 
