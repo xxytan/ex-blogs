@@ -12,7 +12,7 @@ category: 教程
 - **自托管Umami**没有`API Key`这一说，用的是`Bearer Token`，而 Mizuki 默认只支持使用`API Key`，想要使用自托管我们得更改文件
 
 # 准备
-首先就是获取`token`
+先获取`token`
 
 打开[Hoppscotch](https://hoppscotch.io/)
 - 将原先的`GET`改成`POST`，后方填
@@ -41,17 +41,6 @@ category: 教程
   ```js
   Authorization: `Bearer ${apiKey}`
   ```
-- 将68行 **statsUrl** 后面的`path`改成`url`
-  :::note
-  从
-  ```js
-  ${baseUrl}/websites/${websiteId}/stats?startAt=${startAt}&endAt=${endAt}&path=${encodeURIComponent(urlPath)}
-  ```
-  改成
-  ```js
-  ${baseUrl}/websites/${websiteId}/stats?startAt=${startAt}&endAt=${endAt}&url=${encodeURIComponent(urlPath)}
-  ```
-  :::
 
 <p align="right"><i><a href="https://github.com/xxytan/blog/blob/main/public/js/umami-share.js">最终效果</a></i></p>
 
@@ -71,4 +60,4 @@ category: 教程
   （但是拿到`token`其实也干不了啥）
 
 ## 已知问题
-1. 文章访问量与站点访问量一致
+~~1. 文章访问量与站点访问量一致~~
