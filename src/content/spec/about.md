@@ -1,5 +1,8 @@
 ::github{repo="xxytan/blog"}
 
+> [!TIP]
+> 若站点有一些致命错误，或者想对站点提一些建议，都可以[给我邮件📧](mailto:msbyshens@outlook.com)，节假日有空都会回的！
+
 # 站长
 &emsp;&emsp;**Kentural**[^1]，坐标珠琳，一名正在接受义务教育的普通中学生
 - ✅成绩良好，爱好英语、计算机
@@ -24,6 +27,7 @@
 1. 部分文章中含有脚注（即注释），需搭配阅读
 2. [相册](/albums/)中的所有图片均可在[GitHub仓库](https://github.com/xxytan/xxytan/tree/main/albums)下载
 3. 评论系统（Twikoo）部署在Netlify上，大陆部分地区会被墙❌，若遇到**评论失败: 0**的错误提示请**使用国际互联网**🪜后再试
+
 ## 其他
 - 本站由[Umami](https://umami.oxue.de)提供站点统计功能
 - 本站已加入[萌备](https://icp.gov.moe/?keyword=20252235)
