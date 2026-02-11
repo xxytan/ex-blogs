@@ -8,40 +8,27 @@
 - 😋不惜牺牲体力来吃那一根洋芋
 
 # 站点
-25年暑假，站长开始对搭建个人网站感兴趣，在Hexo、Astro、Hugo等框架之间犹豫不决，在Cloudflare Pages的援助下，该站成功诞生🎉
+25年暑假，站长开始对搭建个人网站感兴趣  
+在Hexo、Astro、Hugo等框架之间犹豫不决，在Cloudflare Pages的援助下，该站成功诞生🎉
 
-|框架|时间|状态|
-|-|-|-|
-|Hexo|≈6m||
-|Astro||✔|
+## 主题变迁
+|框架|主题|时间|状态|使用原因|
+|-|-|-|-|-|
+|Hexo|[Fluid](https://github.com/fluid-dev/hexo-theme-fluid)|≈1m||好其MD2的简介设计|
+|Hexo|[Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)|3~4m||觉得前主题有些许单调<br>好其美观且功能强大|
+|Hexo|[AnZhiYu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu/)|≈1m||跟风，觉得很Modern|
+|Hexo|[NexT](https://github.com/next-theme/hexo-theme-next)|≈1m||追求更简洁、强大的主题|
+|Astro|[Mizuki](https://github.com/matsuzaka-yuki/mizuki)||✔|博客框架变更<br>好其对新手友好，且美观、功能强大|
 
-## 本站也换了许多主题
-
-### Hexo时
-
-- 最开始是[Fluid](https://github.com/fluid-dev/hexo-theme-fluid)，当时看中了MD2的简介设计
-- 而后觉着有些许单调，就换成了[Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)，漂亮，功能强大，就是折腾了不少时间
-- 之后跟风，换成了[安知鱼](https://github.com/anzhiyu-c/hexo-theme-anzhiyu)，觉得特别Modern
-- 然后发现用不上的功能特别多──臃肿，又换成了Butterfly
-- 26年寒假，换成了[NexT](https://github.com/next-theme/hexo-theme-next)，简洁但强大，功能多
-
-|主题|时间|状态|
-|-|-|-|
-|[Fluid](https://github.com/fluid-dev/hexo-theme-fluid)|≈1m||
-|[Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)|3~4m||
-|[AnZhiYu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu/)|≈1m||
-|[NexT](https://github.com/next-theme/hexo-theme-next)||✔|
-
-### Astro时
-
-- 刚开始是想跟着二叉大佬用[Fuwari](https://github.com/saicaca/fuwari)的，但后来看到了我觉得对新手更友好的[Mizuki](https://github.com/matsuzaka-yuki/mizuki)，于是…
-
-|主题|时间|状态|
-|-|-|-|
-|Mizuki||✔|
-
-## 阅读提示
-1. 本站部分文章中含有脚注（即注释），需搭配阅读
+## 浏览提示
+1. 部分文章中含有脚注（即注释），需搭配阅读
+2. [相册](/albums/)中的所有图片均可在[GitHub仓库](https://github.com/xxytan/xxytan/tree/main/albums)下载
+3. 评论系统（Twikoo）部署在Netlify上，大陆部分地区会被墙❌，若遇到**评论失败: 0**的错误提示请**使用国际互联网**🪜后再试
+## 其他
+- 本站由[Umami](https://umami.oxue.de)提供站点统计功能
+- 本站已加入[萌备](https://icp.gov.moe/?keyword=20252235)
+- 本站已加入[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
+- ~~本站已加入[blogfinder](https://bf.zzxworld.com)~~ ***暂未***
 
 [^1]: 一天晚上，站长洗碗时突然灵感大发，根据`Ctrl`谐音想到了`Kentural`这个名字
     > 在此之前他还有**Xytan**这个名字

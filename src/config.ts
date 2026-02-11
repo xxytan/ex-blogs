@@ -377,12 +377,12 @@ export const shareConfig: ShareConfig = {
 };
 
 export const announcementConfig: AnnouncementConfig = {
-	title: "公告", // 公告标题，填空使用i18n字符串Key.announcement
+	title: "", // 公告标题，填空使用i18n字符串Key.announcement
 	content: "统计功能已修复", // 公告内容
 	closable: false, // 允许用户关闭公告
 	link: {
-		enable: false, // 启用链接
-		text: "Learn More", // 链接文本
+		enable: true, // 启用链接
+		text: "关于本站", // 链接文本
 		url: "/about/", // 链接 URL
 		external: false, // 内部链接
 	},

@@ -85,13 +85,13 @@ export const friendsData: FriendItem[] = [
 		tags: ["朋友"],
 	},
 	{
-		id: 10,
-		title: "邢平cn",
-		imgurl: "https://cdn.jsdelivr.net/gh/xingpingcn/picx-images-hosting@master/20230419/臭卷包圆形.2rx79tqffvu0.png",
-		desc: "…",
-		siteurl: "https://xingpingcn.top",
-		tags: ["朋友"],
-	}
+	    id: 10,
+	    title: "可达鸭战神の博客",
+        imgurl: "https://blog.kdyzs.top/img/butterfly-icon.png",
+        desc: "Good morning. And in case I don't see ya, good afternoon good evening and good night.",
+        siteurl: "https://blog.kdyzs.top",
+        tags: ["朋友"]
+    }
 ];
 
 // 获取所有友情链接数据
