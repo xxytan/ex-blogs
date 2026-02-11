@@ -44,7 +44,7 @@ export const siteConfig: SiteConfig = {
 		projects: false, // 项目页面开关
 		skills: false, // 技能页面开关
 		timeline: false, // 时间线页面开关
-		albums: false, // 相册页面开关
+		albums: true, // 相册页面开关
 		devices: true, // 设备页面开关
 	},
 
@@ -208,7 +208,7 @@ export const siteConfig: SiteConfig = {
 			enableCompress: true, // 启用字体子集优化，减少字体文件大小
 		},
 	},
-	showLastModified: true, // 控制“上次编辑”卡片显示的开关
+	showLastModified: false, // 控制“上次编辑”卡片显示的开关
 };
 export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
 	src: {
@@ -254,11 +254,11 @@ export const navBarConfig: NavBarConfig = {
 					url: "/diary/",
 					icon: "material-symbols:book",
 				},
-//				{
-//					name: "Gallery",
-//					url: "/albums/",
-//					icon: "material-symbols:photo-library",
-//				},
+				{
+					name: "Gallery",
+					url: "/albums/",
+					icon: "material-symbols:photo-library",
+				},
 				{
 					name: "Devices",
 					url: "devices/",
