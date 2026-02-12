@@ -1,7 +1,7 @@
 ::github{repo="xxytan/blog"}
 
 > [!TIP]
-> 若站点有一些致命错误，或者想对站点提一些建议，都可以[给我邮件📧](mailto:msbyshens@outlook.com)，节假日有空都会回的！
+> 若站点有致命错误，或者想对站点提一些建议，都可以[给我邮件📧](mailto:msbyshens@outlook.com)，节假日有空都会回的！
 
 # 站长
 &emsp;&emsp;**Kentural**[^1]，坐标珠琳，一名正在接受义务教育的普通中学生
