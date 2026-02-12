@@ -22,7 +22,7 @@ export const friendsData: FriendItem[] = [
 	},
 	{
 		id: 2,
-		title: "二叉树树",
+		title: "AcoFork Blog",
 		imgurl: "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=0",
 		desc: "Protect What You Love.",
 		siteurl: "https://2x.nz",
@@ -70,7 +70,7 @@ export const friendsData: FriendItem[] = [
 	},
 	{
 		id: 8,
-		title: "Ksable’s 小屋",
+		title: "Ksable's 小屋",
 		imgurl: "https://weavatar.com/avatar/abd826c253cc22fb954ec7567526f9a1211deb9905b8477c5b2875e20a2adb0b?s=500",
 		desc: "身在无间，心在桃源",
 		siteurl: "https://blog.ksable.top",
