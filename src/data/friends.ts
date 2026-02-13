@@ -91,13 +91,13 @@ export const friendsData: FriendItem[] = [
 		desc: "Good morning. And in case I don't see ya, good afternoon good evening and good night.",
 		siteurl: "https://blog.kdyzs.top",
 		tags: ["朋友"],
-        },
+	},
 	{
-    		id: 11,
-    		title: "麻辣工夫茶博客网",
-    		imgurl: "https://amvc.top/touxiang.webp",
-    		desc: "天气晴朗万物可爱～",
-    		siteurl: "https://amvc.top",
+    	id: 11,
+    	title: "麻辣工夫茶博客网",
+    	imgurl: "https://amvc.top/touxiang.webp",
+    	desc: "天气晴朗，万物可爱～",
+    	siteurl: "https://amvc.top",
 		tags: ["朋友"],
 	}
 ];

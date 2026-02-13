@@ -93,7 +93,7 @@
 		"postcss-nesting": "^13.0.2",
 		"prettier": "^3.8.1"
 	},
-	"packageManager": "pnpm@10.22.0",
+	"packageManager": "pnpm@10.29.3+sha512.498e1fb4cca5aa06c1dcf2611e6fafc50972ffe7189998c409e90de74566444298ffe43e6cd2acdc775ba1aa7cc5e092a8b7054c811ba8c5770f84693d33d2dc",
 	"pnpm": {
 		"overrides": {
 			"@emmetio/css-parser": "https://codeload.github.com/ramya-rao-a/css-parser/tar.gz/370c480ac103bd17c7bcfb34bf5d577dc40d3660"
