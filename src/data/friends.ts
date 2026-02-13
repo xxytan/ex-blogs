@@ -85,13 +85,21 @@ export const friendsData: FriendItem[] = [
 		tags: ["朋友"],
 	},
 	{
-	    id: 10,
-	    title: "可达鸭战神の博客",
-        imgurl: "https://blog.kdyzs.top/img/butterfly-icon.png",
-        desc: "Good morning. And in case I don't see ya, good afternoon good evening and good night.",
-        siteurl: "https://blog.kdyzs.top",
-        tags: ["朋友"]
-    }
+		id: 10,
+		title: "可达鸭战神の博客",
+		imgurl: "https://blog.kdyzs.top/img/butterfly-icon.png",
+		desc: "Good morning. And in case I don't see ya, good afternoon good evening and good night.",
+		siteurl: "https://blog.kdyzs.top",
+		tags: ["朋友"],
+        },
+	{
+    		id: 11,
+    		title: "麻辣工夫茶博客网",
+    		imgurl: "https://amvc.top/touxiang.webp",
+    		desc: "天气晴朗万物可爱～",
+    		siteurl: "https://amvc.top",
+		tags: ["朋友"],
+	}
 ];
 
 // 获取所有友情链接数据
