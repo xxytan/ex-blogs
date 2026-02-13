@@ -32,7 +32,7 @@
 - 本站由[Umami](https://umami.oxue.de)提供站点统计功能
 - 本站已加入[萌备](https://icp.gov.moe/?keyword=20252235)
 - 本站已加入[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
-- ~~本站已加入[blogfinder](https://bf.zzxworld.com)~~ ***暂未***
+- 本站已加入[BlogFinder](https://bf.zzxworld.com/s/1773)
 
 [^1]: 一天晚上，站长洗碗时突然灵感大发，根据`Ctrl`谐音想到了`Kentural`这个名字
     > 在此之前他还有**Xytan**这个名字
