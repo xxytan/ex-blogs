@@ -314,13 +314,18 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Telegram",
 			icon: "fa7-brands:telegram",
-			url: "https://t.me/kentural"
+			url: "https://t.me/xxytan"
 		},
 		{
 			name: "Bilibili",
 			icon: "fa7-brands:bilibili",
 			url: "https://space.bilibili.com/1580336394"
-		}
+		},
+		{
+			name: "Weibo",
+			icon: "fa7-brands:weibo",
+			url: "https://weibo.com/u/7701722034"
+		},
 	],
 };
 
