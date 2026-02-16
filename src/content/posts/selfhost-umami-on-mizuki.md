@@ -34,15 +34,14 @@ category: 教程
 
 # 开始
 
-## 编辑`umami-share.js`文件  
+## 编辑`umami-share.js`
 > 位于`./public/js/`
+
 - 将27、68行 **statsUrl** 后面的`/v1`去除
 - 将31、72行改为
-  ```js
+  ```js title="public/js/umami-share.js" showLineNumbers=false
   Authorization: `Bearer ${apiKey}`
   ```
-
-<p align="right"><i><a href="https://github.com/xxytan/blog/blob/main/public/js/umami-share.js">最终效果</a></i></p>
 
 ## 编辑`config.ts`
 > 位于`./src/`
@@ -56,6 +55,7 @@ category: 教程
   ```
 
 # 结束
+- 若有
 - 获取`token`的时候最好是用一个**仅查看**权限的账户，不要用管理员账户，以备有心之人  
   （但是拿到`token`其实也干不了啥）
 
