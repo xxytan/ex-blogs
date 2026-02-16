@@ -78,7 +78,7 @@ git push -u origin main
 ### 开始
 我们在博客文件夹下创建依次创建
 `.github/workflows/pages.yml`[^1]，并填入
-```yaml
+```yaml title=".github/workflows/pages.yml"
 name: Pages
 
 on:

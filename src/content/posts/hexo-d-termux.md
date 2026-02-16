@@ -92,9 +92,9 @@ hexo s
 
 [^1]: 清华大学源。也可自行选择其他国内镜像源
 [^2]: 安装的是长期版。也可通过以下命令安装稳定版：
-    ``` bash
+    ```bash
     pkg install nodejs
     ```
 [^3]: 不得使用**中文**、**Emoji**等其他非法字符
 [^4]: 均为缩写命令，具体请参阅[官方文档](https://hexo.io/zh-cn/docs/commands)
-[^5]: 需借助`hexo-deployer-git`，具体请参阅[官方文档](https://hexo.io/zh-cn/docs/one-command-deployment#Git)
+[^5]: 具体请参阅[官方文档](https://hexo.io/zh-cn/docs/one-command-deployment)
