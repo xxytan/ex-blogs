@@ -31,6 +31,8 @@
 ## 其他
 - 本站由[Umami](https://umami.oxue.de)提供站点统计功能  
 - 本站由[Meting-API](https://meting.roc.us.ci)提供在线音乐播放服务
+- 本站由[JSDMirror](https://cdn.jsdmirror.com/)提供部分资源全球加速服务
+- 本站由[Twikoo](https://twikoo.js.org/)提供文章评论服务
 - 本站已加入[萌备](https://icp.gov.moe/?keyword=20252235)
 - 本站已加入[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)  
 - 本站已加入[BlogFinder](https://bf.zzxworld.com/s/1773)
