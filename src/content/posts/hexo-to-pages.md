@@ -159,7 +159,7 @@ git push
 
 ### 开始
 登录[Cloudflare 仪表盘](https://dash.cloudflare.com)，打开`计算和 AI`下的`Workers and Pages`，点`创建应用程序`，再点下面的`Get started`![7.png](https://roc.us.ci/file/blog/2/7.png)选择 `导入现有的 Git 存储库`，授权一下你的 GitHub，然后选择前面创建的仓库，再按下面的填：
-```bash
+```bash showLineNumbers=false
 npx run build #构建命令
 public #构建输出目录
 ```
@@ -195,7 +195,7 @@ public #构建输出目录
 # 结束
 > [!TIP]
 > 以后博客每次更新，可以使用组合命令一键推送到仓库：
-> ```bash
+> ```bash showLineNumbers=false
 > git add . && git commit -M "again" && git push
 > ```
 

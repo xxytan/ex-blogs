@@ -1,12 +1,12 @@
 ## 🤔How to?
 贵站如需交换友链，
 - 可以[提交议题](https://github.com/xxytan/xxytan/issues/new?template=template_friend.yml)**（推荐）**
-- 或以以下格式[给我邮件](mailto:msbyshens@outlook.com)📧，邮件主题就写`友链申请`
+- 或以以下模板[给我邮件](mailto:msbyshens@outlook.com)📧，邮件主题就写`友链申请`
 :::warning[若通过邮件投递申请]
 请不要使用您的自定义域邮箱投递，<strong>100%</strong>会被自动归为垃圾邮件！
 :::
 
-```yaml
+```yaml title="模板" showLineNumbers=false
 title: "傲雪の", #站点标题
 imgurl: "https://avatars.githubusercontent.com/u/155360005", #站点图标
 desc: "无聊的一天搭配神经的我～", #站点描述

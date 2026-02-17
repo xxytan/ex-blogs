@@ -50,7 +50,7 @@ category: 教程
 - `apiKey`填前面复制的`token`；  
   或者使用环境变量
 - `baseUrl`填
-  ```
+  ``` showLineNumbers=false
   https://<yours>/api
   ```
 

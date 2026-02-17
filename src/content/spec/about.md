@@ -26,7 +26,7 @@
 ## 浏览提示
 1. 部分文章中含有脚注（即注释），需搭配阅读
 2. [相册](/albums/)中的所有图片均可在[GitHub仓库](https://github.com/xxytan/xxytan/tree/main/albums)下载
-3. 评论系统（Twikoo）部署在Netlify上，大陆部分地区会被墙❌，若遇到**评论失败: 0**的错误提示请**使用国际互联网**🪜后再试
+3. 评论系统（Twikoo）部署在Netlify上，有概率会被GFW屏蔽❌，若遇到**评论失败: 0**的错误提示请**使用国际互联网**🪜后再试
 
 ## 其他
 - 本站由[Umami](https://umami.oxue.de)提供站点统计功能  
