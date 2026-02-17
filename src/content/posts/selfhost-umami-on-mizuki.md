@@ -16,7 +16,7 @@ category: 教程
 
 打开[Hoppscotch](https://hoppscotch.io/)
 - 将原先的`GET`改成`POST`，后方填
-  ```
+  ``` showLineNumbers=false
   https://<yours>/api/auth/login
   ```
   > [!NOTE]
