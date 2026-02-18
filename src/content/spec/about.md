@@ -29,7 +29,7 @@
 3. 评论系统（Twikoo）部署在Netlify上，有概率会被GFW屏蔽❌，若遇到**评论失败: 0**的错误提示请**使用国际互联网**🪜后再试
 
 ## 其他
-- 本站由[Umami](https://umami.oxue.de)提供站点统计功能  
+- 本站由[Umami](https://umami.roc.us.ci/share/phNvUYPjNyt85GYw)提供站点统计服务
 - 本站由[Meting-API](https://meting.roc.us.ci)提供在线音乐播放服务
 - 本站由[JSDMirror](https://cdn.jsdmirror.com/)提供部分资源全球加速服务
 - 本站由[Twikoo](https://twikoo.js.org/)提供文章评论服务
