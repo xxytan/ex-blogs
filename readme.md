@@ -8,9 +8,9 @@
 > [!TIP]
 > 以CloudFlare为主要，且已做优选
 
-|❤️CloudFlare|Github&EdgeOne|
+|❤️CloudFlare|~~Github&EdgeOne~~|
 |-|-|
-|[View](https://b.oxue.de)|[View](https://www.roc.us.ci)|
+|[View](https://b.oxue.de)|~~[View](https://www.roc.us.ci)~~|
 
 ## 变迁史
 |主题|状态|
